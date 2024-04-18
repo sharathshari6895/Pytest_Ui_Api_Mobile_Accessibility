@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_cartPage.py:37 Starting test_remove_from_cart
+[32mINFO    [0m root:test_cartPage.py:41 Product added to the cart successfully
+[32mINFO    [0m root:test_cartPage.py:45 Product is removed from the cart successfully
+[32mINFO    [0m root:test_cartPage.py:48 Ending test_remove_from_cart

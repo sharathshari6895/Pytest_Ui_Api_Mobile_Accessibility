@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_bigoven.py:42 Starting  test_remove_recipe_from_favorites
+[32mINFO    [0m root:test_bigoven.py:47 Login Successful
+[32mINFO    [0m root:test_bigoven.py:53 Recipe added successfully to the Favorite List
+[32mINFO    [0m root:bigoven_favorite_recipes.py:146 recipe is not present after removing
+[32mINFO    [0m root:test_bigoven.py:57 Recipe Removed successfully to the Favorite List
+[32mINFO    [0m root:test_bigoven.py:61 Ending test_remove_recipe_from_favorites

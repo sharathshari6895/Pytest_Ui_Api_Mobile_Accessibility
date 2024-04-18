@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_bigoven.py:17 Starting test_adding_recipe_to_favorites
+[32mINFO    [0m root:test_bigoven.py:22 Login Successful
+[32mINFO    [0m root:bigoven_favorite_recipes.py:132 Recipe is present
+[32mINFO    [0m root:test_bigoven.py:29 Recipe added successfully to the Favorite List
+[32mINFO    [0m root:test_bigoven.py:33 Ending test_adding_recipe_to_favorites

@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_api.py:105 Starting test_patch_booking
+[32mINFO    [0m root:test_api.py:118 Booking patched successfully

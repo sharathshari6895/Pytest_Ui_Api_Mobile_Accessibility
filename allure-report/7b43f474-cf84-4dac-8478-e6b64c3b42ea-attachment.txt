@@ -1,0 +1,1 @@
+Ending test_sort_products

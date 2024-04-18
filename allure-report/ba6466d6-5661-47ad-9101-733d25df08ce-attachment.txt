@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_checkout.py:35 Starting test_sort_products
+[32mINFO    [0m root:test_checkout.py:42 Products sorted successfully
+[32mINFO    [0m root:test_checkout.py:44 Ending test_sort_products

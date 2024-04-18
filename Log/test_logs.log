@@ -1,0 +1,63 @@
+04/18/2024 05:44:04 PM - INFO - root : Starting test_invalid_signin
+04/18/2024 05:44:05 PM - ERROR - root : Assertion Error occurred: assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'
+  - https://www.saucedemo.com/inventory.html
+  ?                           --------------
+  + https://www.saucedemo.com/
+04/18/2024 05:44:05 PM - INFO - root : Ending test_invalid_signin
+04/18/2024 06:01:29 PM - INFO - root : Starting test_invalid_signin
+04/18/2024 06:01:30 PM - ERROR - root : Assertion Error occurred: assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'
+  - https://www.saucedemo.com/inventory.html
+  ?                           --------------
+  + https://www.saucedemo.com/
+04/18/2024 06:01:30 PM - INFO - root : Ending test_invalid_signin
+04/18/2024 06:01:44 PM - INFO - root : Starting test_valid_signin
+04/18/2024 06:01:44 PM - INFO - root : Logging with valid credentials
+04/18/2024 06:01:46 PM - INFO - root : Ending test_valid_signin
+04/18/2024 06:02:00 PM - INFO - root : Starting test_add_to_cart
+04/18/2024 06:02:00 PM - INFO - root : Adding Product to the cart
+04/18/2024 06:02:00 PM - INFO - root : Checking Product in the cart
+04/18/2024 06:02:01 PM - INFO - root : Ending test_add_to_cart
+04/18/2024 06:02:15 PM - INFO - root : Starting test_remove_from_cart
+04/18/2024 06:02:15 PM - INFO - root : Product added to the cart successfully
+04/18/2024 06:02:16 PM - INFO - root : Product is removed from the cart successfully
+04/18/2024 06:02:16 PM - INFO - root : Ending test_remove_from_cart
+04/18/2024 06:02:29 PM - INFO - root : Starting test_checkout
+04/18/2024 06:02:30 PM - INFO - root : Adding user details for checkout
+04/18/2024 06:02:31 PM - INFO - root : Checkout Successful
+04/18/2024 06:02:44 PM - INFO - root : Starting test_sort_products
+04/18/2024 06:02:45 PM - INFO - root : Products sorted successfully
+04/18/2024 06:02:45 PM - INFO - root : Ending test_sort_products
+04/18/2024 06:02:55 PM - INFO - root : Starting test_get_all_bookings
+04/18/2024 06:02:57 PM - INFO - root : Bookings fetched successfully
+04/18/2024 06:02:57 PM - INFO - root : Ending test_get_all_bookings
+04/18/2024 06:03:00 PM - INFO - root : Starting test_create_booking
+04/18/2024 06:03:04 PM - INFO - root : Ending test_create_booking
+04/18/2024 06:03:07 PM - INFO - root : Starting test_update_booking
+04/18/2024 06:03:09 PM - INFO - root : Booking updated successfully
+04/18/2024 06:03:09 PM - INFO - root : Ending test_update_booking
+04/18/2024 06:03:12 PM - INFO - root : Starting test_patch_booking
+04/18/2024 06:03:14 PM - INFO - root : Booking patched successfully
+04/18/2024 06:03:17 PM - INFO - root : Starting test_delete_booking
+04/18/2024 06:03:19 PM - INFO - root : Booking deleted successfully
+04/18/2024 06:03:53 PM - INFO - root : Starting test_adding_recipe_to_favorites
+04/18/2024 06:04:08 PM - INFO - root : Login Successful
+04/18/2024 06:04:47 PM - INFO - root : Recipe is present
+04/18/2024 06:04:47 PM - INFO - root : Recipe added successfully to the Favorite List
+04/18/2024 06:04:54 PM - INFO - root : Ending test_adding_recipe_to_favorites
+04/18/2024 06:05:33 PM - INFO - root : Starting  test_remove_recipe_from_favorites
+04/18/2024 06:05:47 PM - INFO - root : Login Successful
+04/18/2024 06:06:15 PM - INFO - root : Recipe added successfully to the Favorite List
+04/18/2024 06:06:31 PM - INFO - root : recipe is not present after removing
+04/18/2024 06:06:31 PM - INFO - root : Recipe Removed successfully to the Favorite List
+04/18/2024 06:06:39 PM - INFO - root : Ending test_remove_recipe_from_favorites
+04/18/2024 06:07:05 PM - INFO - root : Starting  test_remove_recipe_from_favorites
+04/18/2024 06:07:17 PM - INFO - root : Login Successful
+04/18/2024 06:07:38 PM - INFO - root : New Recipe added successfully
+04/18/2024 06:07:56 PM - INFO - root : Presence of newly added recipe 
+04/18/2024 06:08:02 PM - INFO - root : Ending test_adding_new_recipe
+04/18/2024 06:08:15 PM - INFO - root : Starting test_accessibility_on_url
+04/18/2024 06:08:19 PM - INFO - root : Finding  violations completed
+04/18/2024 06:08:19 PM - INFO - root : Ending test_accessibility_on_url
+04/18/2024 06:11:19 PM - INFO - root : Starting test_accessibility_on_url
+04/18/2024 06:11:20 PM - INFO - root : Finding  violations completed
+04/18/2024 06:11:20 PM - INFO - root : Ending test_accessibility_on_url

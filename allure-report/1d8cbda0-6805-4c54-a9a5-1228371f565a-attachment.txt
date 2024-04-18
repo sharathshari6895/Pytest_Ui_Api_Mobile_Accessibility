@@ -1,0 +1,1 @@
+Retrieving created booking for validation
